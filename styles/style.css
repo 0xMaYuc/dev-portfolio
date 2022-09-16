@@ -241,6 +241,7 @@ hr {
   align-items: center;
   justify-content: center;
   grid-gap: 2rem;
+  margin-bottom: 70px;
 }
 .sec-services .services .service {
   width: 400px;
